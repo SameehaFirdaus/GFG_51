@@ -7,7 +7,7 @@ Tags:
   - Hash
 ---
 
-# 🚀 _Day 1. Count all triplets with given sum in sorted array_ 🧠
+# 🚀 _Day 51. Count all triplets with given sum in sorted array_ 🧠
 
 
 The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array)

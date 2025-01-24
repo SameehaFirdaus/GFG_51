@@ -10,11 +10,11 @@ Tags:
 # 🚀 _Day 51. Count all triplets with given sum in sorted array_ 🧠
 
 
-The problem can be found at the following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array)
+The problem can be found at following link: [Problem Link](https://www.geeksforgeeks.org/batch/gfg-160-problems/track/two-pointer-technique-gfg-160/problem/count-all-triplets-with-given-sum-in-sorted-array)
 
 ## 💡 **Problem Description:**
 
-You are given a sorted array `arr[]` of size `n` and an integer `target`. Your task is to count the number of triplets `(i, j, k)` such that:  
+You are given a sorted array `arr[]` of the size `n` and an integer `target`. Your task is to count the number of the triplets `(i, j, k)` such that:  
 - `i < j < k`  
 - `arr[i] + arr[j] + arr[k] == target`
 
